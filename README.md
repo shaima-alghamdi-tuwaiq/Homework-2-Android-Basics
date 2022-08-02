@@ -1,1 +1,16 @@
 # Homework-2-Android-Basics
+
+### Description | وصف الواجب
+Build an invitation or thank you card for your family and friends. Or maybe you can Build your own business card!!
+
+
+### Instructions | التعليمات
+1. Use multiple views and widgets in your layout such as ImageView, TextView, and so on. 
+2. Use one of the layouts to arrange your views on the screen such as LinearLayout, RelativeLayout, ConstraintsLayout.
+
+
+
+
+### Sample Output | صورة تقريبية للنتيجة النهائية
+
+![Layout Output]()

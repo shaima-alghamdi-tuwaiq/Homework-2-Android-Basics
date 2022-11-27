@@ -19,3 +19,7 @@ Build an invitation or thank you card for your family and friends. Or maybe you 
 ### Sample Output | صورة تقريبية للنتيجة النهائية
 
 <img src="https://github.com/shaima-alghamdi-tuwaiq/Homework-2-Android-Basics/blob/b083427646c66de0578cb84481e2ba0bf3470dcf/tuwaiq-app.png" alt="Layout Output" width="50%"/>
+
+### Final OutPut | النتيجة النهائية
+
+<img src="https://github.com/rwishd17/Homework-2-Android-Basics/blob/main/tuwaiqApp.gif" alt="OutPut" width="50%">
